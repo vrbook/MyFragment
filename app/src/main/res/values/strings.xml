@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyFragment</string>
+    <string name="fragment1_name">Welcome to fragment 1</string>
+    <string name="btn1_Name">Go to Fragment 1</string>
+    <string name="btn2_Name">Go to Fragment 2</string>
+    <string name="btn3_Name">Go to Fragment 3</string>
+    <string name="btn4_Name">Go to Second Activity</string>
+    <string name="fragment2_name">Welcome to Fragment 2</string>
+    <string name="fragment3_name">Welcome to Fragment 2</string>
+    <string name="second_activity_name">Welcome to Second Activity layout</string>
 </resources>
